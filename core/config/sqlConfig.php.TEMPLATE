@@ -1,0 +1,6 @@
+<?php
+    define("DATABASE_NAME", "");
+    define("DATABASE_USER", "");
+    define("DATABASE_PASSWORD", "");
+    define("DATABASE_SERVER", "");
+?>
